@@ -19,6 +19,8 @@ Gradute Attributes and how they can be described by badges
 | 	Value1	| 	Value2	| 	Value3	 | 
 | 	Value1	| 	Value2	| 	Value3	 | 
 
+| 	header1	 | 	header2	 | 
+| 	:-----:	 | 	:-----:	 | 	
 | const DB_NAME_CPANEL = "xxxxxx" | Name of the Database |
 | const DB_USER_CPANEL = "xxxxxx" | Username or a user with access to the database |
 | const DB_PASS_CPANEL = "xxxxxx" | Password for the user that you have specified |
