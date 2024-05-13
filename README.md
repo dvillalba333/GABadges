@@ -21,11 +21,13 @@ Gradute Attributes and how they can be described by badges
 #View.php is the file that creates the different interfaces of this application.
 
 #The structure of the table used in the database is:
-#id INT(11)
-#id_course VARCHAR(10)
-#id_sga1 INT(11)
-#id_sga2 INT(11)
-#id_sga3 INT(11)
-#date DATE
-#description TEXT
-#id_attribute INT(11)
+| 	Line	 | 	Description	 | 
+| 	:-----:	 | 	:-----:	 | 	
+|id |INT(11)|
+|id_course |VARCHAR(10)|
+|id_sga1 |INT(11)|
+|id_sga2 |INT(11)|
+|id_sga3 |INT(11)|
+|date |DATE|
+|description |TEXT|
+|id_attribute |INT(11)|
