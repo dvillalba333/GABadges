@@ -8,9 +8,9 @@ to match the graduate attributes of your institution.
 The path used for this application is: https://sam.group.shef.ac.uk/gtabadges/
 You will need to change that on the config.php and function.js files
 
-This system works with PHP and a Mysql Database using a MVC framework, the config.php file stores the necessary 
-to connect to the database, and it has been anonymised so you can put your details:
+This system works with PHP and a Mysql Database using a MVC framework.
 
+The config.php file stores the necessary to connect to the database, and it has been anonymised so you can put your details. You can see the description of those details on here:
 | 	Line	 | 	Description	 | 
 | 	:-----:	 | 	:-----:	 | 	
 | const DB_NAME_CPANEL = "xxxxxx" | Name of the Database |
