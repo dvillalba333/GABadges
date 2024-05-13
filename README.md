@@ -1,5 +1,5 @@
 # GABadges
-Gradute Attributes and how they can be described by badges
+Graduate Attributes and how they can be described by badges
 
 # Information
 #This folder contains the different files that you need to create a badge system 
@@ -21,7 +21,7 @@ Gradute Attributes and how they can be described by badges
 #View.php is the file that creates the different interfaces of this application.
 
 #The structure of the table used in the database is:
-| 	Line	 | 	Description	 | 
+| 	Field	 | 	Type	 | 
 | 	:-----:	 | 	:-----:	 | 	
 |id |INT(11)|
 |id_course |VARCHAR(10)|
