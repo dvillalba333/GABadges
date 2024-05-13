@@ -1,0 +1,67 @@
+    legend {
+      font-size: 1.2em;
+      font-weight: bold;
+      padding: 0 10px;
+    }
+  
+    /* Form container */
+    fieldset {
+      max-width: 400px;
+      margin: 0 auto;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+
+    /* Form elements */
+    input[type="text"],
+    select,
+    textarea {
+      width: 100%;
+      padding: 10px;
+      margin-bottom: 10px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      box-sizing: border-box;
+      resize: vertical;
+    }
+
+    /* Form button */
+    input[type="button"] {
+      background-color: #4CAF50;
+      color: white;
+      padding: 12px 20px;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      width: 100%;
+    }
+
+    /* Form button hover effect */
+    input[type="button"]:hover {
+      background-color: #45a049;
+    }
+    
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      
+    }    
+ 
+    .vtbegenerated table IMG {
+        max-width:100%;
+    }
+    
+    tbody {
+        width:100%;
+    }
+    
+    #formFilter th, #formFilter td {
+      border-bottom: 0px solid #ddd;
+    }
+    
+    th, td {
+      padding: 8px;
+      text-align: left;
+      border-bottom: 1px solid #ddd;
+    }
