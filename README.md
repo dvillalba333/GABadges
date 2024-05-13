@@ -22,13 +22,14 @@ View.php is the file that creates the different interfaces of this application.
 
 # Database
 #The structure of the table used in the database is:
-| 	Field	 | 	Type	 | 
-| 	:-----:	 | 	:-----:	 | 	
-|id |INT(11)|
-|id_course |VARCHAR(10)|
-|id_sga1 |INT(11)|
-|id_sga2 |INT(11)|
-|id_sga3 |INT(11)|
-|date |DATE|
-|description |TEXT|
-|id_attribute |INT(11)|
+| 	Field	 | 	Type	 | Description	 | 
+| 	:-----:	 | 	:-----:	 | 		:-----:	 | 	
+|id |INT(11)| General key of the item| 
+|id_course |VARCHAR(10)| id for the course that is inputting the attributes| 
+|id_attribute |INT(11)| General Attributes (1-12)| 
+|id_sga1 |INT(11)| First subattribute| 
+|id_sga2 |INT(11)| Second subattribute| 
+|id_sga3 |INT(11)| Third subattribute| 
+|date |DATE| When it was created| 
+|description |TEXT| Context for that attribute | 
+
