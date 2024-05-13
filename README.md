@@ -11,9 +11,10 @@ Gradute Attributes and how they can be described by badges
 #This system works with PHP and a Mysql Database using a MVC framework, the config.php file stores the necessary 
 #to connect to the database, and it has been anonymised so you can put your details:
 
-const DB_NAME_CPANEL = "xxxxxx"; Name of the Database
-const DB_USER_CPANEL = "xxxxxx"; Username or a user with access to the database
-const DB_PASS_CPANEL = "xxxxxx"; Password for the user that you have specified
+
+| const DB_NAME_CPANEL = "xxxxxx" | Name of the Database |
+| const DB_USER_CPANEL = "xxxxxx" | Username or a user with access to the database |
+| const DB_PASS_CPANEL = "xxxxxx" | Password for the user that you have specified |
 
 #Controller.php is the file that controls the input from the user
 #View.php is the file that creates the different interfaces of this application.
