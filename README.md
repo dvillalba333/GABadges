@@ -11,15 +11,7 @@ Gradute Attributes and how they can be described by badges
 #This system works with PHP and a Mysql Database using a MVC framework, the config.php file stores the necessary 
 #to connect to the database, and it has been anonymised so you can put your details:
 
-| 	header1	 | 	header2	 | 	header3	 | 
-| 	:-----:	 | 	:-----:	 | 	:-----:	 | 
-| 	Value1	| 	Value2	| 	Value3	 | 
-| 	Value1	| 	Value2	| 	Value3	 | 
-| 	Value1	| 	Value2	| 	Value3	 | 
-| 	Value1	| 	Value2	| 	Value3	 | 
-| 	Value1	| 	Value2	| 	Value3	 | 
-
-| 	header1	 | 	header2	 | 
+| 	Line	 | 	Description	 | 
 | 	:-----:	 | 	:-----:	 | 	
 | const DB_NAME_CPANEL = "xxxxxx" | Name of the Database |
 | const DB_USER_CPANEL = "xxxxxx" | Username or a user with access to the database |
