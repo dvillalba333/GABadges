@@ -1,5 +1,5 @@
 # GABadges
-Graduate Attributes and how they can be described by badges
+Graduate Attributes and how they can be described by badges. You will need to download this code in your server.
 
 # Information
 This folder contains the different files that you need to create for a badge system 
